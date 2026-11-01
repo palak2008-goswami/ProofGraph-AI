@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pypdf>=5.0
+cryptography>=42
+reportlab>=4.0
+httpx2
